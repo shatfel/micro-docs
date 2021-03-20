@@ -1,3 +1,7 @@
+# Micro text editor help
+# (cloned from official repo)
+
+## Docs
 
 * [Colors](./runtime/help/colors.md)
 * [Commands](./runtime/help/commands.md)
