@@ -1,5 +1,5 @@
 # Micro text editor help
-# (cloned from official repo)
+# (cloned from official [repo](https://github.com/zyedidia/micro))
 
 ## Docs
 
